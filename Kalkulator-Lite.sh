@@ -23,7 +23,7 @@ echo "    ╱▔▔▔▔▔╲ ╱▔╲         Kalkulator-LTE "
 sleep 0.03
 echo "    ▏  ▏╭╮▕ ▏╳▕ "
 sleep 0.03
-echo "    ▏  ▏  ▕ ╲▂╱  Tools ini berfungsi untuk mengitung "
+echo "    ▏  ▏  ▕ ╲▂╱  Tools ini berfungsi untuk menghitung "
 sleep 0.03
 echo " ╱▔▔╲▂╱╲▂▂ ╲▂▏▏  Penambahan,Pengurangan,Perkalian & "
 sleep 0.03
